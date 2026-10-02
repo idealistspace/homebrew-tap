@@ -10,4 +10,4 @@ brew install idealistspace/tap/dbm
 
 | Formula | Description | Status |
 |---|---|---|
-| `dbm` | Save, search, read, annotate, archive, and trash items in your [DoubleMemory](https://doublememory.com) library from the terminal. Requires the DoubleMemory Mac app. | 1.1.0 |
+| `dbm` | Save, search, read, annotate, archive, and trash items in your [DoubleMemory](https://doublememory.com) library from the terminal. Requires the DoubleMemory Mac app. | 1.1.1 |

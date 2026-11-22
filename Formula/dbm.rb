@@ -1,9 +1,9 @@
 class Dbm < Formula
   desc "Save, search, annotate, archive, and trash items in your DoubleMemory library"
   homepage "https://doublememory.com"
-  url "https://github.com/idealistspace/homebrew-tap/releases/download/dbm-1.1.1/dbm-1.1.1.zip"
-  version "1.1.1"
-  sha256 "67e71c93bb75865c3d0c98ed6124ee9d36f1d434ec7194d13c6518a46c9535ea"
+  url "https://github.com/idealistspace/homebrew-tap/releases/download/dbm-1.2.0/dbm-1.2.0.zip"
+  version "1.2.0"
+  sha256 "0b6c1421fff3a3e688a813bfa2aee13aa8fa28112a7605cf92be8ddff7271184"
 
   depends_on macos: :sonoma
 
